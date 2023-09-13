@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mikaeloganesian/Documents/GitHub/CSharp.HSE.Homework/1/1/1/1.csproj",
+      "projectUniqueName": "/Users/mikaeloganesian/Documents/GitHub/CSharp.HSE.Homework/1/1.csproj",
       "projectName": "1",
-      "projectPath": "/Users/mikaeloganesian/Documents/GitHub/CSharp.HSE.Homework/1/1/1/1.csproj",
+      "projectPath": "/Users/mikaeloganesian/Documents/GitHub/CSharp.HSE.Homework/1/1.csproj",
       "packagesPath": "/Users/mikaeloganesian/.nuget/packages/",
-      "outputPath": "/Users/mikaeloganesian/Documents/GitHub/CSharp.HSE.Homework/1/1/1/obj/",
+      "outputPath": "/Users/mikaeloganesian/Documents/GitHub/CSharp.HSE.Homework/1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mikaeloganesian/.nuget/NuGet/NuGet.Config"
